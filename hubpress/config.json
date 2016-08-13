@@ -4,7 +4,10 @@
     "repositoryName": "emtudo.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Meu blog",
+    "description": "Teste"
+  },
   "socialnetwork": {
     "twitter": "https://twitter.com/emtudo",
     "googleplus": "https://plus.google.com/u/0/+LeandroHenriqueReis/posts",
