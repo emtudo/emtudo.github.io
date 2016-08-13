@@ -4,7 +4,15 @@
     "repositoryName": "emtudo.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "twitter": "https://twitter.com/emtudo",
+    "googleplus": "https://plus.google.com/u/0/+LeandroHenriqueReis/posts",
+    "linkedin": "https://www.linkedin.com/in/emtudo",
+    "facebook": "https://www.facebook.com/emtudo",
+    "github": "https://github.com/emtudo"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
