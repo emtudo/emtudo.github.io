@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Blog Emtudo",
-    "description": "Teste"
+    "description": "Teste",
+    "logo": "http://www.henriquereis.com/img/header-bg.jpg"
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/emtudo",
